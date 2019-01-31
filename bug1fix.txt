@@ -1,2 +1,1 @@
-Here I will do some bug fixes first time 
-and commit it to local bug1 branch.
+Again I made some improvement up on the bug.
